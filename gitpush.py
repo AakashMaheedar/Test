@@ -4,6 +4,8 @@ os.system(cmd1)
 cmd1_1 = 'cd /Users/aaakasha/Workstore/Feb/sampleApp'
 cmd2 = 'git add  .'
 os.system(cmd1_1)
+cmd111 ='pwd'
+os.system(cmd111)
 cmd2_2 ='git status'
 os.system(cmd2)
 os.system(cmd2_2)
